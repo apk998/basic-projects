@@ -1,5 +1,5 @@
 # basic-projects
-DataQuest projects and self study using Python for data analysis. Here are the projects in chronological order of study:
+DataQuest projects and self study using Python for data analysis. Here are the projects in chronological order of completion:
 
 1. Prison Break
 2. Profitable App Profiles for the App Store and Google Play Markets
